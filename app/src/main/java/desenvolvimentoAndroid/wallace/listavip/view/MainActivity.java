@@ -1,4 +1,4 @@
-package desenvolvimentoAndroid.wallace.listavip;
+package desenvolvimentoAndroid.wallace.listavip.view;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import desenvolvimentoAndroid.wallace.listavip.R;
 
 public class MainActivity extends AppCompatActivity {
 
